@@ -7,8 +7,8 @@
 
 𓏴 ࣪　　 **Chuu**　　 : 　　Coco
 
-( 🦄 )　──　i luv unicorns　·　chiikawa　·　_akaashi keiji_
+( 🦄 )　──　i **luv** unicorns　·　chiikawa　·　_akaashi keiji_
 
-᠃　᠌᠌ bmf　::　c * h enc　𓍢 ִ
+᠃　᠌᠌ __bmf_　::　c * h enc　𓍢 ִ
 
 </div>
