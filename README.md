@@ -3,8 +3,12 @@
   <img src="IMG_8351.png" width="600">
 
 </p>
-ㅤ
-  　　꒰      Ⳋ᧙      ` Chuu `       ˖   
-　　⋮  ⌗         i lovee unicorns !   ㅤ‧  ˚  
-  ୭      plss bmf & c * h    ˚       .        ᵎᵎ     
-⠀⠀
+<p align="center">
+
+　　꒰ㅤㅤⳊ᧙ㅤㅤ` Chuu `ㅤㅤ˖
+
+　　⋮ㅤ⌗ㅤㅤㅤi lovee unicorns !ㅤㅤ‧˚
+
+　　୭ㅤㅤplss bmf & c * hㅤㅤ˚ㅤ.ㅤᵎᵎ
+
+</p>
