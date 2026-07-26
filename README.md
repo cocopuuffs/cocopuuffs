@@ -3,8 +3,12 @@
   <img src="IMG_8351.png" width="600">
 
 </p>
-<p align="center">꒰ㅤⳊ᧙ㅤ` Chuu `ㅤ˖</p>
+<div align="center">
 
-<p align="center">⋮ㅤ⌗ㅤi lovee unicorns !ㅤ‧˚</p>
+𓏴 ࣪　　 **Chuu**　　 : 　　Coco
 
-<p align="center">୭ㅤplss bmf &amp; c * hㅤ˚ㅤ.ㅤᵎᵎ</p>
+( 🦄 )　──　i luv unicorns　·　chiikawa　·　akaashi keiji
+
+᠃　᠌᠌ bmf　::　c * h enc　𓍢 ִ
+
+</div>
