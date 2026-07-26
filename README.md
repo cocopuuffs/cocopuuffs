@@ -9,6 +9,6 @@
 
 ( 🦄 )　──　i **luv** unicorns　·　chiikawa　·　_akaashi keiji_
 
-᠃　᠌᠌ __bmf_　::　c * h enc　𓍢 ִ
+᠃　᠌᠌ _bmf_　::　c * h enc　𓍢 ִ
 
 </div>
