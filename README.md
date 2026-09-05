@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/views-0?labelColor=%23e7a6d8&color=%239b68b5&style=flat">
+  <img src="https://views-counter.vercel.app/badge?pageId=cocopuffs%2Fcocopuffs&leftColor=e7a6d8&rightColor=9b68b5&label=views">
 </p>
 
 <div align="center">
