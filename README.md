@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/views-0-3d293d?style=flat-square">
+  <img src="https://img.shields.io/badge/views-0?labelColor=%23e7a6d8&color=%239b68b5&style=flat">
 </p>
 
 <div align="center">
