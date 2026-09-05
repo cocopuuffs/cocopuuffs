@@ -10,7 +10,7 @@
 
 𓏴 ࣪　　 **Chuu**　　 : 　　Coco
 
-( 🦄 )　──　[ata](https://cocopuuffs.atabook.org/?page=1)　·　[![carrd](https://img.shields.io/badge/♡%20carrd-e7a6d8?style=flat&labelColor=9b68b5)](https://chuuupachus.carrd.co/)  ·　_akaashi keiji_
+( 🦄 )　──　[![atabook](https://img.shields.io/badge/♡%20atabook-e7a6d8?style=flat&labelColor=9b68b5)](https://cocopuuffs.atabook.org/?page=1)　·　[![carrd](https://img.shields.io/badge/♡%20carrd-e7a6d8?style=flat&labelColor=9b68b5)](https://chuuupachus.carrd.co/)  ·　_akaashi keiji_
 
 ᠃　᠌᠌ _bmf_　::　c * h enc　𓍢 ִ
 
