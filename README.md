@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://views-counter.vercel.app/badge?pageId=cocopuffs%2Fcocopuffs&leftColor=e7a6d8&rightColor=9b68b5&label=views">
+  <img src="https://view-counter.tobyhagan.com/?user=cocopuffs&base=e7a6d8&accent=9b68b5">
 </p>
 
 <div align="center">
