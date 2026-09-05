@@ -25,25 +25,3 @@
 
 </div>
 
-<style>
-.counter {
-  display: inline-flex;
-  font-family: Arial, sans-serif;
-  font-size: 18px;
-  color: white;
-  border-radius: 7px;
-  overflow: hidden;
-  box-shadow: 0 2px 5px rgba(0,0,0,.5);
-  margin-bottom: 15px;
-}
-
-.counter .label {
-  padding: 5px 15px;
-  background: linear-gradient(#666, #333);
-}
-
-.counter #view-count {
-  padding: 5px 12px;
-  background: linear-gradient(#73526f, #3d2940);
-}
-</style>
