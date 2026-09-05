@@ -10,7 +10,7 @@
 
 𓏴 ࣪　　 **Chuu**　　 : 　　Coco
 
-( 🦄 )　──　i **luv** unicorns　·　chiikawa　·　_akaashi keiji_
+( 🦄 )　──　[ata](https://cocopuuffs.atabook.org/?page=1)　·　[carrd(https://chuuupachus.carrd.co/)·　_akaashi keiji_
 
 ᠃　᠌᠌ _bmf_　::　c * h enc　𓍢 ִ
 
