@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://✧ little wanderers-counter.tobyhagan.com/?user=cocopuffs&base=e7a6d8&accent=9b68b5">
+  <img src="https://view-counter.tobyhagan.com/?user=cocopuffs&base=e7a6d8&accent=9b68b5">
 </p>
 
 <div align="center">
